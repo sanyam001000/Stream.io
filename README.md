@@ -1,6 +1,9 @@
 # Stream.io
 
-Deployed Contract Address : 0xb09da8a5B236fE0295A345035287e80bb0008290
+Deployed Contract Address 
+MakeNFT: 0xb09da8a5B236fE0295A345035287e80bb0008290
+Asset: 0x5095d3313C76E8d29163e40a0223A5816a8037D8
+
 
 A decentralized video streaming platform redefining content sharing and monetization.
 
