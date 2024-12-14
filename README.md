@@ -1,4 +1,4 @@
-# Streamify
+# Stream.io
 
 Deployed Contract Address 
 
@@ -6,37 +6,37 @@ A decentralized video streaming platform redefining content sharing and monetiza
 
 **Introduction**
 
-Streamify is a revolutionary decentralized video streaming platform designed to empower creators and communities by leveraging blockchain technology.
+Stream.io is a revolutionary decentralized video streaming platform designed to empower creators and communities by leveraging blockchain technology.
 Inspired by projects like Web2 - Youtube, we asked ourselves:
 
 Why should such innovation be limited to Web2 ?
 After thorough research, the answer is clear: Yes, it can!
 
-Streamify brings this vision to life on Mantle and interchain community building.
+Stream.io brings this vision to life on Mantle and interchain community building.
 
 **Key Features**
 
 **Diverse Asset Support**
-Streamify supports a wide variety of digital assets.
+Stream.io supports a wide variety of digital assets.
 
 **Video content**
 Blockchain-based resources
 NFT integration for exclusive content access
 
 **Deployment on Mantle Chain**
-Streamify is deployed on the Mantle Chain, enhancing scalability and performance. It's unique capabilities enable smooth interchain asset transfers and a seamless user experience.
+Stream.io is deployed on the Mantle Chain, enhancing scalability and performance. It's unique capabilities enable smooth interchain asset transfers and a seamless user experience.
 
 **Advanced Analytics with Chainsight**
-With Chainsight integrated, Streamify offers:
+With Chainsight integrated, Stream.io offers:
 
-**What Makes Streamify Unique?**
+**What Makes Stream.io Unique?**
 Focused on communities and use cases, not just trends.
 Prioritizes creator empowerment by enabling decentralized content monetization.
 Aims to unify Ethereum's distributed community into one interconnected ecosystem.
 Actionable insights to enhance user engagement
 
 **Our Vision**
-To become the go-to decentralized platform for video streaming and community-driven projects on Mantle. Streamify is not just about watching videos—it's about creating a sustainable, community-powered ecosystem for:
+To become the go-to decentralized platform for video streaming and community-driven projects on Mantle. Stream.io is not just about watching videos—it's about creating a sustainable, community-powered ecosystem for:
 Content sharing
 Revenue generation
 Asset management
@@ -54,10 +54,10 @@ Smart Contracts: For decentralized content access and payment systems
 
 **Get Started**
 Clone the repository:
-git clone https://github.com/sanyam001000/streamify.git  
+git clone https://github.com/sanyam001000/Stream.io.git  
 
 Install dependencies:
-cd streamify  
+cd Stream.io  
 npm install  
 
 Run the project locally:
